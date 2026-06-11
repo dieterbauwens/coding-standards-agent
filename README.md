@@ -74,7 +74,7 @@ headings and bodies, and returns the highest-scoring sections.
 
 ## Hands on 🚀
 
-When creating a new project, a local AGENTS.md-file is still required. This file should include instructions to use the Coding Standards Agent (the standard provider for general rules) in concjunction with repository-specific instructions.
+When creating a new project, a local AGENTS.md-file is still required. This file should include instructions to use the Coding Standards Agent (the standard provider for general rules) in conjunction with repository-specific instructions.
 
 Example `AGENTS.md` file for a random Python REST API application:
 
